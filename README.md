@@ -1,16 +1,16 @@
 # Ubuntu-KVM-Kubernetes
 
-Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+Kubernetes is an open-source system for automating deployment, scaling and management of containerized applications.
 
-Recently, I tried to build my kubernetes and write some script files.
+I study to build kubernetes 1.6.x by typing commands one by one, and I wish to build kubernetes by automatic script files.
 
 The goal is to simplify the building process.
 
-This project is still undergoing, I will continue to add or modify the content of the project.
+Therefore, I start this project and will continue this project when I am free.
 
-The network of this project is composed of five nodes, which are two master, 1 haproxy and two nodes. 
+Recently, I tried to build kubernetes through and write some script files.
 
-The detail configuration list in k8s-config.json file.
+The detail configuration listed in k8s-config.json file.
 
-The execution of scripts needs jq package, which is a lightweight and flexible command-line JSON processor.
+The execution of scripts needs 'jq' package, which is a lightweight and flexible command-line JSON processor.
 
